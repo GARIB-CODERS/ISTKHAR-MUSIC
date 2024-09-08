@@ -26,4 +26,4 @@ Spotify = SpotifyAPI()
 Resso = RessoAPI()
 Telegram = TeleAPI()
 YouTube = YouTubeAPI()
-APP = "AlienMusic_opbot"  # connect music api key "Dont change it"
+APP = "@AlexaMusicXDBot"  # connect music api key "Dont change it"
